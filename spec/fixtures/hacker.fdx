@@ -3,7 +3,7 @@
 
   <Content>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2/8" Page="1" Title=""/>
+      <SceneProperties Length="2/8" Page="1" Title="My first scene"/>
       <Text>Int. Bedroom - night</Text>
     </Paragraph>
     <Paragraph Type="Action">
